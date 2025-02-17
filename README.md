@@ -98,3 +98,5 @@ bash
 Copiar
 npm start
 O servidor agora estará rodando localmente, geralmente acessível em http://localhost:4000. Com isso, você pode começar a interagir com a aplicação, enviando e recebendo feedbacks.
+
+# By GABRIELA DEMORI - LOHAINE MATTOS - MIRIAM BORDINI
