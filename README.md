@@ -2,7 +2,7 @@
 
 Este projeto visa criar um sistema simples e eficiente para armazenar feedbacks de usuários. Ele foi desenvolvido para registrar e organizar informações relacionadas a feedbacks, como o nome, e-mail, data e o conteúdo fornecido pelos usuários, permitindo uma gestão eficiente desses dados.
 
-![Imagem ilustrativa](./docs/print_front.png)
+![Imagem ilustrativa](./docs/img/print_front.png)
 
 
 ---
