@@ -6,6 +6,7 @@ Este projeto visa criar um sistema simples e eficiente para armazenar feedbacks 
 
 
 ---
+##### By GABRIELA DEMORI - LOHAINE MATTOS - MIRIAM BORDINI
 
 ## Tecnologias Utilizadas
 
@@ -58,6 +59,8 @@ Antes de começar a configurar o projeto, é necessário garantir que algumas fe
 
 Siga os passos abaixo para configurar e testar o banco de dados do projeto na sua máquina local:
 
+
+
 ### 1. Clone o Repositório
 
 Para começar, você precisa clonar o repositório do projeto para o seu computador. No terminal, execute:
@@ -98,5 +101,3 @@ bash
 Copiar
 npm start
 O servidor agora estará rodando localmente, geralmente acessível em http://localhost:4000. Com isso, você pode começar a interagir com a aplicação, enviando e recebendo feedbacks.
-
-# By GABRIELA DEMORI - LOHAINE MATTOS - MIRIAM BORDINI
